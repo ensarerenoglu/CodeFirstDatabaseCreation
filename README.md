@@ -1,23 +1,24 @@
 # CodeFirstDatabaseCreation
 ### CodeFirstDatabaseCreation with EntityFramework
 
-- ORM klasörü altında Context ve Entity klasörleri oluştur
+- ORM klasörü altında Context ve Entity klasörleri oluşturulur
 
-- Entity altında baseclass ve diğer classları tanımla
+- Entity altında baseclass ve diğer classları tanımlanır
 
-- EntityFramework yükle
-	* Nuget Packet Manager aç
-	* Browse tıkla
-	* EntityFramework seç 
-	* Install
+- EntityFramework yüklemek için;
+	* Nuget Packet Manager açılır
+	* Browse tıklanır
+	* EntityFramework seçilir 
+	* Install 
 	* Ok
 	* I Accept
-	* Reference kısmına gelen entityframework kontrol et
-- Context altına AppDBContext classı oluştur
+	* Reference kısmına gelen entityframework kontrol edilir
+	
+- Context altına AppDBContext classı oluşturulur
 
-- Classa "using System.Data.Entity;" kütüphanesini ekle
+- Classa "using System.Data.Entity;" kütüphanesini eklenir
 
-- DBContext classını miras olarak ver
+- DBContext classını miras olarak verilir
 
 - Constructor açılır
 
@@ -26,7 +27,7 @@
 	* Database ismini kendimiz veriyoruz.
 	
 	* string içerisinde Çift \\ kullanılır
-	
+Örnek;	
 ` Database.Connection.ConnectionString = "Server=ExampleServerName;Database=CodeFirstDb;Trusted_Connection=True;";`
 
 - Tabloya dahil edilmek istenen classlar için dbset<> tipinde propertyler oluşturulur.
@@ -36,7 +37,7 @@
         public DbSet<Category> Categories { get; set; }
 ```
 
-- Tools> Nuget Packet MAnager> Console açılır.
+- Tools> Nuget Packet Manager> Console açılır.
 
 - Migration işlemini aktif hale getirmek için; 
 
@@ -47,3 +48,5 @@
 	* Configuration classı constructorunda `AutomaticMigrationsEnabled = true;` yapılır.
 	
 	* Console'da update-database komutu yazılır entera basılır.
+
+### Veritabanı oluşmuş olur
