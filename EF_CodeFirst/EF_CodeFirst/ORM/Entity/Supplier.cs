@@ -6,13 +6,13 @@ using System.Threading.Tasks;
 
 namespace EF_CodeFirst.ORM.Entity
 {
-    public class Category : BaseEntity
+    public class Supplier: BaseEntity
     {
-       
-        public string CategoryName { get; set; }
-        public string Description { get; set; }
+        public string CompanyName { get; set; }
+        public string ContactName { get; set; }
+        public string Address { get; set; }
 
-        // bir kategorinin birden fazla ürünü olur
+
         public List<Product> Products { get; set; }
     }
 }

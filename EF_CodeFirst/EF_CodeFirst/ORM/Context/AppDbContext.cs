@@ -16,5 +16,6 @@ namespace EF_CodeFirst.ORM.Context
         }
         public DbSet<Product> Products { get; set; }
         public DbSet<Category> Categories { get; set; }
+        public DbSet<Supplier> Suppliers { get; set; }
     }
 }

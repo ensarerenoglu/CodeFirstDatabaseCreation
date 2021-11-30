@@ -67,6 +67,7 @@
     <Compile Include="ORM\Entity\BaseEntity.cs" />
     <Compile Include="ORM\Entity\Category.cs" />
     <Compile Include="ORM\Entity\Product.cs" />
+    <Compile Include="ORM\Entity\Supplier.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="Properties\Resources.resx">

@@ -12,3 +12,17 @@ C:\Users\o_nea\source\repos\EF_CodeFirst\EF_CodeFirst\obj\Debug\EF_CodeFirst.csp
 C:\Users\o_nea\source\repos\EF_CodeFirst\EF_CodeFirst\obj\Debug\EF_CodeFirst.csproj.CopyComplete
 C:\Users\o_nea\source\repos\EF_CodeFirst\EF_CodeFirst\obj\Debug\EF_CodeFirst.exe
 C:\Users\o_nea\source\repos\EF_CodeFirst\EF_CodeFirst\obj\Debug\EF_CodeFirst.pdb
+C:\Users\o_nea\Source\Repos\ensarerenoglu\CodeFirstDatabaseCreation\EF_CodeFirst\EF_CodeFirst\bin\Debug\EF_CodeFirst.exe.config
+C:\Users\o_nea\Source\Repos\ensarerenoglu\CodeFirstDatabaseCreation\EF_CodeFirst\EF_CodeFirst\bin\Debug\EF_CodeFirst.exe
+C:\Users\o_nea\Source\Repos\ensarerenoglu\CodeFirstDatabaseCreation\EF_CodeFirst\EF_CodeFirst\bin\Debug\EF_CodeFirst.pdb
+C:\Users\o_nea\Source\Repos\ensarerenoglu\CodeFirstDatabaseCreation\EF_CodeFirst\EF_CodeFirst\bin\Debug\EntityFramework.dll
+C:\Users\o_nea\Source\Repos\ensarerenoglu\CodeFirstDatabaseCreation\EF_CodeFirst\EF_CodeFirst\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\o_nea\Source\Repos\ensarerenoglu\CodeFirstDatabaseCreation\EF_CodeFirst\EF_CodeFirst\bin\Debug\EntityFramework.xml
+C:\Users\o_nea\Source\Repos\ensarerenoglu\CodeFirstDatabaseCreation\EF_CodeFirst\EF_CodeFirst\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\o_nea\Source\Repos\ensarerenoglu\CodeFirstDatabaseCreation\EF_CodeFirst\EF_CodeFirst\obj\Debug\EF_CodeFirst.csproj.AssemblyReference.cache
+C:\Users\o_nea\Source\Repos\ensarerenoglu\CodeFirstDatabaseCreation\EF_CodeFirst\EF_CodeFirst\obj\Debug\EF_CodeFirst.Properties.Resources.resources
+C:\Users\o_nea\Source\Repos\ensarerenoglu\CodeFirstDatabaseCreation\EF_CodeFirst\EF_CodeFirst\obj\Debug\EF_CodeFirst.csproj.GenerateResource.cache
+C:\Users\o_nea\Source\Repos\ensarerenoglu\CodeFirstDatabaseCreation\EF_CodeFirst\EF_CodeFirst\obj\Debug\EF_CodeFirst.csproj.CoreCompileInputs.cache
+C:\Users\o_nea\Source\Repos\ensarerenoglu\CodeFirstDatabaseCreation\EF_CodeFirst\EF_CodeFirst\obj\Debug\EF_CodeFirst.csproj.CopyComplete
+C:\Users\o_nea\Source\Repos\ensarerenoglu\CodeFirstDatabaseCreation\EF_CodeFirst\EF_CodeFirst\obj\Debug\EF_CodeFirst.exe
+C:\Users\o_nea\Source\Repos\ensarerenoglu\CodeFirstDatabaseCreation\EF_CodeFirst\EF_CodeFirst\obj\Debug\EF_CodeFirst.pdb
